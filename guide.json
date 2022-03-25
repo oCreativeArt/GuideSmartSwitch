@@ -29,7 +29,7 @@
 				"text": "Use the Smart Switch app to transfer photos, contacts, messages, files and important data to a new device. Smart Switch can transfer all your data, including your device settings, so that you can pick up your new device and carry on right where you left off. You can even create a backup for your old phone's files on your PC or Mac, then transfer or sync your data onto your new Galaxy phone. Smart Switch can be used to transfer between tablets, between smartphones, and between a tablet and a smartphone.\n\nPlease note: To use Smart Switch, your phone must run Android 4.3 or iOS 4.2.1 or later.\n\nYou can transfer your data from both Android and iOS devices over Wi-Fi, with a USB cable or with a PC or Mac. Choose the method you feel most comfortable with and let Smart Switch do the rest.",
 				"isNative": false,
 				"background": "",
-				"background": "youtube_player_view"
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "How to transfer your data using Smart Switch",
@@ -42,7 +42,8 @@
 				"image_link": "",
 				"text": "The process of transferring your data with Smart Switch will change depending on the method you wish to use and the device you are moving your data from.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Which types of content can I transfer?",
@@ -55,7 +56,8 @@
 				"image_link": "",
 				"text": "The process of transferring your data with Smart Switch will change depending on the method you wish to use and the device you are moving your data from.\n\nHowever, although Smart Switch makes transferring your information easy, there is some data that it can't transfer.\n\nMost app data will transfer, however any secure or encrypted data (i.e. WhatsApp chats) will not be transferred.\nMany apps that require you to sign in with a username and password store data on their own servers. Make sure you have performed a back-up or saved your data before logging into apps on your new phone.\nAny apps that haven't been downloaded through the Play Store will need to be downloaded manually.\nSmart Switch may not be able to transfer login details to specific apps, such as mobile banking apps. Make sure that you know your login details for any apps you wish to use on the new phone.\nThe Google Play Store and the Apple App Store are two separate sites and have a different selection of games and apps. If you are transferring from an iOS device, Smart Switch will try to download an Android alternative to your apps. If there isn't an Android alternative it won't be transferred.\nAny content with DRM (Digital Rights Management) cannot be transferred by Smart Switch.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Where can I download Smart Switch?",
@@ -68,7 +70,8 @@
 				"image_link": "",
 				"text": "If you're using an Android device, you can download Samsung Smart Switch from the Google Play Store.\nIf you're using a Mac, you can download Samsung Smart Switch from the App Store.\nIf you're using a PC you can download Samsung Smart Switch from the Samsung Smart Switch hub.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "What are the requirements for using Smart Switch on PC and Mac?",
@@ -81,7 +84,8 @@
 				"image_link": "",
 				"text": "If you're using an Android device, you can download Samsung Smart Switch from the Google Play Store.\nIf you're using a Mac, you can download Samsung Smart Switch from the App Store.\nIf you're using a PC you can download Samsung Smart Switch from the Samsung Smart Switch hub.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Will the content on my old phone be removed?",
@@ -94,7 +98,8 @@
 				"image_link": "",
 				"text": "No, the content on your old phone will not be removed. Smart Switch creates a copy of your data that is transferred across, the original content is still stored on your old phone.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Why are the pictures I transferred in a different order?",
@@ -107,7 +112,8 @@
 				"image_link": "",
 				"text": "Pictures are displayed in the Gallery in the order they were transferred to your phone during the Smart Switch process. Sometimes, if pictures have different file sizes they will transfer at different speeds and can be saved in a different order than on your old phone.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Smart Switch says there's 'not enough space available.' What should I do?",
@@ -120,7 +126,8 @@
 				"image_link": "",
 				"text": "Smart Switch requires a minimum of 500MB of free space on each device. The amount of storage space needed will increase depending on how much information you are wanting to transfer. If you are getting a notification saying there's 'not enough space available', try freeing up some space on each device by deleting any content you don't want. You can also try unselecting some of the items to be transferred. ",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Is my information safe?",
@@ -133,7 +140,8 @@
 				"image_link": "",
 				"text": "Yes, security and privacy are the highest priorities. In most instances, Smart Switch transfers your data directly from one of your devices to another over a secure connection. If you are transferring your data through an iCloud backup, all your personal data is encrypted when sent to the backup server and cannot be accessed by any other devices.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "Why can't I play videos I transferred from my iPhone?",
@@ -146,7 +154,8 @@
 				"image_link": "",
 				"text": "Videos recorded on iOS devices are saved as .mov files, which are not supported by the Samsung video player. In order to watch videos transferred from an iOS device you will need to download a video player that supports .mov files.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			},
 			{
 				"title": "The connection keeps dropping during the Smart Switch process. What should I do?",
@@ -159,7 +168,8 @@
 				"image_link": "",
 				"text": "Please note: The Smart Switch app needs to be kept open during the transfer process. If the Smart Switch app is closed it may stop transferring and you will have to repeat the process. If you are having difficulty transferring your data using one of the Smart Switch methods, try using another to move your data.\n\nIf you're using Smart Switch to transfer via Wi-Fi, the devices need to be kept around 20cm apart. Smart Switch uses high frequency audio to establish a connection between the two devices. This audio is played out of the speaker of the old device into the microphone of the new device. Make sure that both the microphone and speakers are not covered and that you are in a quiet area.\nIf you have a non-Samsung device that constantly disconnects from the wireless network, go to the Advanced Wi-Fi settings on your device, turn off the “Wi-Fi initialize” and “Disconnect low Wi-Fi signal” options, and try again.\n\nIf you're using Smart Switch to transfer your data via a USB cable you should use your devices original cable and the Smart Switch adapter provided with your new phone. If you are unable to use the original cable, make sure you are using a USB cable that supports an MTP connection. Avoid moving or picking up your phone while the transfer is taking place as a USB connection must be active throughout the transfer process.",
 				"isNative": false,
-				"background": ""
+				"background": "",
+				"background": "EOZ6kaRHETk"
 			}
 		]
 
